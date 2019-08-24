@@ -1,2 +1,2 @@
 # KBC
-A 'C' language Quiz game based on the famous show "Kaun Banega Crorepati" or "Who wants to be a Millionaire"
+A 'C' language Game based on the famous Quiz show "Kaun Banega Crorepati" a.k.a "Who wants to be a Millionaire" in US.
