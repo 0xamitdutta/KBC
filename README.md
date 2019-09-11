@@ -2,7 +2,7 @@
 
 ![](https://i.ytimg.com/vi/XXytjUPiQ2s/maxresdefault.jpg)
 
-A 'C language' terminal quiz game based on the popular show "Kaun Banega Crorepati". The game consists of 2 levels or rounds.
+A 'C language' terminal quiz game based on the popular show "Kaun Banega Crorepati". The game consists of 2 stages or rounds.
 
 The 1st round is a screening round in which 2 questions have to be answered correctly out of 3 to be eligible for the 2nd round.
 
